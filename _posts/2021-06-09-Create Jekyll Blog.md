@@ -82,3 +82,11 @@ bundle install
   Server running... press ctrl-c to stop.
 如果你想使用我的模板请把 _posts/ 目录下的文章都去掉。
 修改 _config.yml 文件里面的内容为你自己的。
+
+ruby -v
+gem -v
+bundle exec jekyll -v
+bundle exec jeykll server
+bundle exec jekyll server
+cd E:\SW\Jekyll\jekyll-rtd-theme
+bundle exec jekyll server
